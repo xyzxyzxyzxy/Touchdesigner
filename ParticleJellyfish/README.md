@@ -1,4 +1,5 @@
 # ParticleJellyfish
 just having fun with touchdesigner...
 
-![Alt Text](sample.gif width="100")
+<img src="sample.gif" alt="sample" width="200"/>
+![sample](sample.gif)
