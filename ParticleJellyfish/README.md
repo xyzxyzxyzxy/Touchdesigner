@@ -1,4 +1,4 @@
 # ParticleJellyfish
 just having fun with touchdesigner...
 
-![](sample.gif)
+![](sample.gif =250x)
