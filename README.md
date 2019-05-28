@@ -1,2 +1,2 @@
 # Touchdesigner
-just having fun with touchdesigner...
+Having fun with touchdesigner.
